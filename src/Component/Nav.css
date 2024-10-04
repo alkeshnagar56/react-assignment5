@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+  }
+  .tags{
+    right: 50px;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom right , rgba(255, 0, 0, 0.708), rgba(0, 0, 0, 0.808));
+    display: flex;
+    color: white;
+    text-decoration: none;
+    justify-content: space-around ;
+    align-items: center;
+    box-shadow: rosybrown 8px 8px 8px 8px;
+  }
+  .link{
+    color: rgba(255, 255, 255, 0.815);
+    text-shadow: rgb(136, 132, 132) 2px 2px 2px;
+    text-decoration: none;
+    font-weight: 700;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+  }
